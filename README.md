@@ -7,10 +7,15 @@
  * Currently looking for web development opportunities
  
   ### I'm learning:
-  
-<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
-<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
+<div align="center">
 
+ <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/> 
+&nbsp;
+     
+&nbsp;
+ <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
+ 
+</div>
 
 <div>
 <a href="https://github.com/duca-meneses">
