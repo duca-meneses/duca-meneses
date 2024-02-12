@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my profile.
 
  * My name is Carlos Eduardo
- * I'm 23 years old
+ * I'm 24 years old
  * Bachelor of Computer Science 
  * Brazilian
  * Currently looking for web development opportunities
